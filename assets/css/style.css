@@ -1,0 +1,34 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    width: 1000px;
+    padding: 40px;
+    background-color: honeydew;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+
+.quadrado{
+    width: 150px;
+    height: 150px;
+    font-size: 80px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+}
+
+.jogo{
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    margin-top: 5px;
+    font-size: 20px;
+}
